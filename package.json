@@ -1,0 +1,20 @@
+{
+  "name": "@dailynodemodule/p-cancelable",
+  "version": "1.0.0",
+  "description": "This project is sample code that demonstrates the usage of p-cancelable",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dailynodemodule/p-cancelable"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Zachary Boyd <zachary@dailynodemodule.com>",
+  "license": "CC0-1.0",
+  "dependencies": {
+    "@types/p-cancelable": "^1.0.1",
+    "p-cancelable": "^2.0.0",
+    "request": "^2.88.0"
+  }
+}
